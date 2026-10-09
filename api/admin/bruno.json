@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "payments-admin",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
